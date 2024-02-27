@@ -6,12 +6,12 @@ A whatsapp chatbot using twilio and nodejs
 -Copy the accountSid ANDD authToken fffrom the console 
 -Replace accountSid ANDD authToken i the routes/messaging.route.js file
 
-# Setup step 2
--Run project locally
+# Setup step 2 -Run project locally
 # npm start
 Download ngrok here https://ngrok.com/download and follow thhe instructions to start a tunnel using your localhost link. copy the live url
 or 
--Host project online 
+
+# Setup step 2 -Host project online 
 Head to any hosting platform that allows node application to host project and copy the live url. example www.evennode.com
 
 # Setup step 2
