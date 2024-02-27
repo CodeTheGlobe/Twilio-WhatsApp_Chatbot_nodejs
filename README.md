@@ -2,11 +2,11 @@
 A whatsapp chatbot using twilio and nodejs
 
 # Setup step 1
-First head to twilio.com to create your sandbox account.
+First go to twilio.com to create your sandbox account.
 
-Copy the accountSid ANDD authToken fffrom the console 
+Copy the accountSid and authToken fffrom the console 
 
-Replace accountSid ANDD authToken i the routes/messaging.route.js file
+Replace accountSid and authToken i the routes/messaging.route.js file
 
 # Setup step 2 -Run project locally
 npm start
