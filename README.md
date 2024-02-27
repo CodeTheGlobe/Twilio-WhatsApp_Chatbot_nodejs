@@ -7,14 +7,14 @@ A whatsapp chatbot using twilio and nodejs
 -Replace accountSid ANDD authToken i the routes/messaging.route.js file
 
 # Setup step 2 -Run project locally
-# npm start
+npm start
 Download ngrok here https://ngrok.com/download and follow thhe instructions to start a tunnel using your localhost link. copy the live url
 or 
 
 # Setup step 2 -Host project online 
 Head to any hosting platform that allows node application to host project and copy the live url. example www.evennode.com
 
-# Setup step 2
+# Setup step 3
 Head back to your console, on your sandbox configuration settings set the URL for when a message comes in to <your live link>/messaging/reply
 
 # Join sandbox
