@@ -17,7 +17,7 @@ Head to any hosting platform that allows node application to host project and co
 # Setup step 2
 Head back to your console, on your sandbox configuration settings set the URL for when a message comes in to <your live link>/messaging/reply
 
-# Setup step 2
+# Join sandbox
 Join your sandbox by sending a message from your whatsapp to the twilio number
 
 # Test phrase to test with
