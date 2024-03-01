@@ -2,7 +2,7 @@
 A whatsapp chatbot using twilio and nodejs
 
 # Setup step 1
-First install dependencies using ***npm install*** then go to twilio.com to create your sandbox account.
+First install dependencies using ***npm install*** then go to https://twilio.com to create your sandbox account.
 
 Copy the accountSid and authToken fffrom the console 
 
